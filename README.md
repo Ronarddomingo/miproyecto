@@ -1,3 +1,3 @@
 # Mi Proyecto GitHub
 
-Este es mi primer repositorio subido desde VS Code.
+es una pagina para agendar citas en un consultorio de dentista basico
